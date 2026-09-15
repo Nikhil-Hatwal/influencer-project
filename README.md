@@ -4,23 +4,17 @@ A Streamlit dashboard to analyze the performance of influencer marketing campaig
 
 ## 📦 Installation & Setup
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/Ansh-Malik1/Influencer-Campaign-ROI-calc.git
-   cd Influencer-Campaign-ROI-calc
-   ```
-
-2. **Install dependencies**
+1. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Generate sample data**
+2. **Generate sample data**
    ```bash
    python data_generation.py
    ```
 
-4. **Run the Streamlit app**
+3. **Run the Streamlit app**
    ```bash
    streamlit run app.py
    ```
